@@ -99,7 +99,7 @@ export const FoodImageContainer = styled.View`
 `;
 
 export const FoodContent = styled.View`
-  flex: 1;
+  /* flex: 1; */
   padding: 16px;
 `;
 
